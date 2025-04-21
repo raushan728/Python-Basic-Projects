@@ -5,4 +5,26 @@ This repository contains beginner-friendly Python projects to practice and impro
 ---
 
 ## 📁 Folder Structure
+**Python-Basic-Projects/**
+│
+├── Calculator/
+│   ├── calculator.py
+│   └── README.md
+│
+├── Number-Guessing-Game/
+│   ├── guess_game.py
+│   └── README.md
+│
+├── Password-Generator/
+│   ├── Password_generator.py
+│   └── README.md
+│
+├── Quiz-App/
+│   ├── Quiz.py
+│   └── README.md
+│
+└── Simple-ATM-Simulator/
+    ├── simple_ATM_simulator.py
+    └── README.md
+
 
