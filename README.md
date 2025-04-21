@@ -5,6 +5,7 @@ This repository contains beginner-friendly Python projects to practice and impro
 ---
 
 ## 📁 Folder Structure
+```
 **Python-Basic-Projects/**
 │
 ├── Calculator/
@@ -26,5 +27,3 @@ This repository contains beginner-friendly Python projects to practice and impro
 └── Simple-ATM-Simulator/
     ├── simple_ATM_simulator.py
     └── README.md
-
-
