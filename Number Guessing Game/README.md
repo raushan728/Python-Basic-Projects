@@ -41,5 +41,6 @@ cd NumberGuessingGame
 
 # Step 3: Run the script
 python number_guessing_game.py
+```
 
 ✅ Make sure Python is installed and added to PATH
