@@ -44,3 +44,23 @@ python number_guessing_game.py
 ```
 
 ✅ Make sure Python is installed and added to PATH
+
+---
+
+💻 Sample Output
+```
+🎮 Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100.
+
+Enter your guess: 40  
+Too low! Try again.
+
+Enter your guess: 85  
+Too high! Try again.
+
+Enter your guess: 65  
+🎉 Congratulations! You guessed it in 3 attempts.
+
+Do you want to play again? (yes/no): yes
+I'm thinking of a number between 1 and 100.
+
