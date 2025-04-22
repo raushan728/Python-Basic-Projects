@@ -6,7 +6,7 @@
 This is a fun and interactive number guessing game built using Python.  
 The computer randomly selects a number between 1 and 100, and the user tries to guess it.
 
-## It includes:
+### It includes:
 
 🔢 Random number generation  
 🎯 Hints for guesses (too low / too high)  
