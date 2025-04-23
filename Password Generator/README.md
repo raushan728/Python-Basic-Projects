@@ -1,4 +1,5 @@
-🎯 Project Title – Password Generator
+# 🎯 Project Title – Password Generator
+---
 
 📌 Description  
 This is a secure and random password generator built using Python.  
