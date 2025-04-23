@@ -1,7 +1,7 @@
 # 🎯 Project Title – Password Generator
 ---
 
-📌 Description  
+## 📌 Description  
 This is a secure and random password generator built using Python.  
 It creates strong passwords using a mix of:
 
@@ -11,7 +11,7 @@ It creates strong passwords using a mix of:
 🔣 Special characters  
 
 It ensures that each password contains at least one character from each category, making it suitable for strong authentication.
-
+---
 ⚙️ Technologies Used  
 Python 3.x  
 Command Line Interface (CLI)
