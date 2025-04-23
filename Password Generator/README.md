@@ -36,6 +36,7 @@ cd Password\ Generator
 # Step 3: Run the script
 python password_generator.py
 ```
+✅ Make sure Python is installed and added to PATH
 ---
 ## 💻 Sample Output
 🔐 Welcome to the Password Generator!
