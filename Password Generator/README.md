@@ -35,3 +35,12 @@ cd Password\ Generator
 
 # Step 3: Run the script
 python password_generator.py
+```
+## 💻 Sample Output
+🔐 Welcome to the Password Generator!
+Enter desired password length (minimum 4): 12
+Generated Password: B6@tq!mZ4uW#
+
+Do you want to generate another password? (yes/no): no
+Goodbye!
+
