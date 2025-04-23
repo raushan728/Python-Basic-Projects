@@ -13,7 +13,7 @@ It creates strong passwords using a mix of:
 It ensures that each password contains at least one character from each category, making it suitable for strong authentication.
 
 ---
-⚙️ Technologies Used  
+## ⚙️ Technologies Used  
 Python 3.x  
 Command Line Interface (CLI)
 
