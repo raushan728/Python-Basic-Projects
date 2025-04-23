@@ -17,7 +17,8 @@ It ensures that each password contains at least one character from each category
 Python 3.x  
 Command Line Interface (CLI)
 
-🧠 Concepts Covered  
+---
+## 🧠 Concepts Covered  
 - Random module  
 - String module  
 - Functions  
@@ -25,7 +26,8 @@ Command Line Interface (CLI)
 - Error handling  
 - Loops and conditional logic
 
-▶️ How to Run
+---
+## ▶️ How to Run
 ```bash
 # Step 1: Open terminal or command prompt
 # Step 2: Navigate to the folder where the file is saved
