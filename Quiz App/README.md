@@ -13,3 +13,8 @@ It asks programming-related questions and evaluates the user's answers.
 - Handles invalid inputs gracefully
 
 - Flexible question system, easy to add more questions
+
+---
+## ⚙️ Technologies Used
+- Python 3.x
+- Command Line Interface (CLI)
