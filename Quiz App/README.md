@@ -43,7 +43,7 @@ python quiz_app.py
 ```
 Welcome to the Python Quiz!
 
-Q1: What is the output of print(2 ** 3)?
+Q1: What is the output of print(2 ** 3) in Python?
 a. 6
 b. 8
 c. 9
