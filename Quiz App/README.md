@@ -8,8 +8,8 @@ It asks programming-related questions and evaluates the user's answers.
 ## Features:
 - Supports both option letters (e.g., b) and values (e.g., 8) as valid answers
 
-Displays score and percentage after completion
+- Displays score and percentage after completion
 
-Handles invalid inputs gracefully
+- Handles invalid inputs gracefully
 
-Flexible question system, easy to add more questions
+- Flexible question system, easy to add more questions
