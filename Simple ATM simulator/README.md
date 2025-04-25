@@ -1,8 +1,8 @@
-🎯 **Project Title – Simple ATM Simulator**
+# 🎯Project Title – Simple ATM Simulator
 
 ---
 
-📌 **Description**
+## 📌Description
 
 This is a basic ATM simulator built in Python that allows the user to:
 
@@ -15,14 +15,14 @@ The program also includes proper input validation and error handling for a smoot
 
 ---
 
-⚙️ **Technologies Used**
+## ⚙️Technologies Used
 
 - Python 3.x  
 - Command Line Interface (CLI)
 
 ---
 
-🧠 **Concepts Covered**
+## 🧠Concepts Covered
 
 - Functions  
 - `if-elif-else` conditional logic  
@@ -42,3 +42,17 @@ cd Simple\ ATM\ Simulator
 
 # Step 3: Run the script
 python atm_simulator.py
+```
+
+---
+## 🛡️Welcome to the Python ATM Simulator!
+```
+===== 🏧 ATM Menu =====
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Choose an option (1-4): 1
+
+💰 Your current balance is: ₹10000
+
